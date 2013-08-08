@@ -1,0 +1,13 @@
+//Test for contribution cues into the codes. Did little studying, so don't remember squat diddly.
+
+import java.util.*;
+
+public class ReadMe {
+
+      public static void main (String args[]) {
+      
+      System.out.println("This project is sure going to take one hell of a long time.")
+      
+      }
+
+}
